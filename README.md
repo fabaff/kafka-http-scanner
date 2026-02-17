@@ -18,8 +18,8 @@ An advanced HTTP security vulnerability scanner that detects a wide range of web
 ### From Source
 
 ```sh
-git clone https://github.com/aymaneallaoui/go-http-scanner.git
-cd go-http-scanner
+git clone https://github.com/aymaneallaoui/kafka-http-scanner.git
+cd kafka-http-scanner
 
 go build -o httpscan
 
